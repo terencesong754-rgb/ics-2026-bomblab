@@ -3,6 +3,20 @@
 - 学号：25300120083
 
 ## 目录
+- [Bomb Lab 实验报告](#bomb-lab-实验报告)
+  - [目录](#目录)
+  - [Tutor与前置学习](#tutor与前置学习)
+  - [phase 1](#phase-1)
+  - [phase 2](#phase-2)
+  - [phase 3](#phase-3)
+  - [phase 4](#phase-4)
+  - [phase 5](#phase-5)
+  - [phase 6](#phase-6)
+  - [secret](#secret)
+  - [测试](#测试)
+    - [公有测试](#公有测试)
+    - [个人测试](#个人测试)
+  - [总结](#总结)
 
 
 
